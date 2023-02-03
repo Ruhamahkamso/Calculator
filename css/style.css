@@ -55,3 +55,20 @@ form input.equal {
     color: rgb(10, 155, 245);
 
 }
+ /* ===============MEDIA QUERIES (small SCREEN       ==================*/
+ @media screen and (max-width:600px) {
+    .calculator {
+        width: 90%;
+        padding:2rem  ;
+        
+      
+        
+    }
+    .calculator form input{
+        margin: auto;
+    }
+   
+    
+         
+     }
+    
